@@ -1,7 +1,7 @@
 ---
-title: "Contact"
+title: "联系我们"
 meta_title: ""
-description: "this is meta description"
+description: "这是元描述"
 layout: "contact"
 draft: false
 ---
