@@ -11,3 +11,4 @@ languageName = "English"
 languageCode = "en"
 contentDir = "content/english" # 英文内容目录
 weight = 2
+
